@@ -1,0 +1,38 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+  input,
+  textarea,
+  select,
+  button {
+    outline: none;
+    font: inherit;
+  }
+ 
+  label,
+
+  ul {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  img,
+  picture,
+  video,
+  canvas,
+  svg {
+    display: block;
+    max-width: 100%;
+    user-select: none !important;
+  }
+  
+
+  
